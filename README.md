@@ -1,4 +1,7 @@
 # power_system_operation
+
+Implemented in MATLAB.
+
 This work was developed with the aim of carrying out the operation of 3 power generation plants.
 
 As loads vary in the system, frequencies, voltages and other variables change, and it is necessary to compensate for these with regulators and compensators.
